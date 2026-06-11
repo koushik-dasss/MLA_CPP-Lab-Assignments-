@@ -37,3 +37,7 @@ int main(){
     cout<<"The predicted class of the data point P(4,3) is class "<<p<<endl;
     return 0;
 }
+// Output :- 
+//  g++ -I /usr/include/eigen3 Q1.cpp -o Q1
+//  ./Q1
+// The predicted class of the data point P(4,3) is class 0
