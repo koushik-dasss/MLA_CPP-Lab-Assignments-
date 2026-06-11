@@ -33,3 +33,14 @@ int main(){
     cout<<"F1-Score = "<<fscore<<endl;
     return 0;
 }
+// Output :-
+//  g++ -I /usr/include/eigen3 Q2.cpp -o Q2
+//  ./Q2
+// TP = 4
+// TN = 4
+// FP = 1
+// FN = 1
+// Accuracy = 0.8
+// Precision = 0.8
+// Recall = 0.8
+// F1-Score = 0.8
